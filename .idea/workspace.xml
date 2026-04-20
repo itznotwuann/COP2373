@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9480e97f-b46d-48fd-a75a-08dc4a42bc85" name="Changes" comment="Programming Exercise 12 Grade tracker">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,25 +42,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Exercise-CSV.executor": "Run",
-    "Python.TraquanExercise11.executor": "Run",
-    "Python.TraquanExercise12.executor": "Run",
-    "Python.TraquanExercise9.executor": "Run",
-    "Python.TraquanPendergrass.executor": "Run",
-    "Python.TraquanPendergrass_Exercise3_Chapter4.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Exercise-CSV.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercise12Traquan.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TraquanExercise11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TraquanExercise12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TraquanExercise9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TraquanPendergrass.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TraquanPendergrass_Exercise3_Chapter4.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dihjn\PycharmProjects\COP2373\ProgrammingExercise-12" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Exercise-CSV">
     <configuration name="Exercise-CSV" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="COP2373" />
       <option name="ENV_FILES" value="" />
@@ -289,7 +291,39 @@
       <option name="project" value="LOCAL" />
       <updated>1776652456736</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Programming Exercise 12 Grade tracker">
+      <option name="closed" value="true" />
+      <created>1776652516028</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1776652516028</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Programming Exercise 12 Grade tracker">
+      <option name="closed" value="true" />
+      <created>1776652661337</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1776652661337</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Programming Exercise 12 Grade tracker">
+      <option name="closed" value="true" />
+      <created>1776652691782</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1776652691782</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Programming Exercise 12 Grade tracker">
+      <option name="closed" value="true" />
+      <created>1776652731116</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1776652731116</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
