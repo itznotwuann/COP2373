@@ -66,7 +66,7 @@ def overall_statistics(data):
 
 # Main function to run the program
 def main():
-    filename = "grades.csv"
+    filename = "../ProgrammingExercise-12/grades.csv"
 
     try:
         grades_array = load_grades(filename)
