@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9480e97f-b46d-48fd-a75a-08dc4a42bc85" name="Changes" comment="Programming Exercise 12 Grade tracker">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;itznotwuann&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/itznotwuann/COP2373.git&quot;,
+    &quot;accountId&quot;: &quot;5d970a1b-2477-4078-8857-968ac3c58d17&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="31L85QmEGC78xDeDSs4phdaYkyK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Exercise-CSV.executor": "Run",
+    "Python.TraquanExercise11.executor": "Run",
+    "Python.TraquanExercise12.executor": "Run",
+    "Python.TraquanExercise9.executor": "Run",
+    "Python.TraquanPendergrass.executor": "Run",
+    "Python.TraquanPendergrass_Exercise3_Chapter4.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Exercise-CSV" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="COP2373" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProgrammingExercise-CSV" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProgrammingExercise-CSV/Exercise-CSV.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TraquanExercise9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="COP2373" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProgrammingExercise-9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProgrammingExercise-9/TraquanExercise9.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TraquanPendergrass" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="COP2373" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProgrammingExercise3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProgrammingExercise3/TraquanPendergrass.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TraquanPendergrass_Exercise3_Chapter4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="COP2373" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TraquanPendergrass_Exercise3_Chapter4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Exercise-CSV" />
+        <item itemvalue="Python.TraquanExercise9" />
+        <item itemvalue="Python.TraquanPendergrass" />
+        <item itemvalue="Python.TraquanPendergrass_Exercise3_Chapter4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d9fa9deec7cb-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.23892.515" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9480e97f-b46d-48fd-a75a-08dc4a42bc85" name="Changes" comment="" />
+      <created>1755291809482</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755291809482</updated>
+    </task>
+    <task id="LOCAL-00001" summary="from functools import reduce&#10;&#10;def main():&#10;    expenses = []&#10;&#10;    while True:&#10;        expense_type = input(&quot;Enter the type of expense (or 'done' to finish): &quot;)&#10;        if expense_type.lower() == &quot;done&quot;:&#10;            break&#10;        try:&#10;            amount = float(input(f&quot;Enter the amount for {expense_type}: &quot;))&#10;            expenses.append((expense_type, amount))&#10;        except ValueError:&#10;            print(&quot;Invalid amount. Please enter a number.&quot;)&#10;&#10;    if not expenses:&#10;        print(&quot;No expenses entered.&quot;)&#10;        return&#10;&#10;    # Total using reduce&#10;    total = reduce(lambda acc, x: acc + x[1], expenses, 0)&#10;&#10;    # Highest using reduce&#10;    highest = reduce(lambda x, y: x if x[1] &gt; y[1] else y, expenses)&#10;&#10;    # Lowest using reduce&#10;    lowest = reduce(lambda x, y: x if x[1] &lt; y[1] else y, expenses)&#10;&#10;    print(&quot;\n--- Expense Report ---&quot;)&#10;    print(f&quot;Total Expenses: ${total:.2f}&quot;)&#10;    print(f&quot;Highest Expense: {highest[0]} (${highest[1]:.2f})&quot;)&#10;    print(f&quot;Lowest Expense: {lowest[0]} (${lowest[1]:.2f})&quot;)&#10;&#10;if __name__ == &quot;__main__&quot;:&#10;    main()">
+      <option name="closed" value="true" />
+      <created>1759025361023</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759025361023</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Python program that collects monthly expenses and uses reduce to calculate total, highest and lowest expense.">
+      <option name="closed" value="true" />
+      <created>1759026741870</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1759026741870</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added program to input monthly expenses and display total, highest, and lowest expenses using reduce.">
+      <option name="closed" value="true" />
+      <created>1759027205503</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1759027205503</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Exercise8">
+      <option name="closed" value="true" />
+      <created>1774482928467</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1774482928467</updated>
+    </task>
+    <task id="LOCAL-00005" summary="CSV Exercise">
+      <option name="closed" value="true" />
+      <created>1774483675493</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1774483675493</updated>
+    </task>
+    <task id="LOCAL-00006" summary="CSV Grades file">
+      <option name="closed" value="true" />
+      <created>1774483716733</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1774483716733</updated>
+    </task>
+    <task id="LOCAL-00007" summary="CSV Word DOc">
+      <option name="closed" value="true" />
+      <created>1774484349425</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1774484349425</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Programming Exercise 9 Bank Account">
+      <option name="closed" value="true" />
+      <created>1775444079929</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1775444079929</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Programming Exercise 9 Bank Account">
+      <option name="closed" value="true" />
+      <created>1775444592536</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1775444592536</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Programming Exercise 11 Poker Hand">
+      <option name="closed" value="true" />
+      <created>1776049009889</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1776049009889</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Programming Exercise 12 Grade tracker">
+      <option name="closed" value="true" />
+      <created>1776651291068</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1776651291068</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Programming Exercise 12 Grade tracker">
+      <option name="closed" value="true" />
+      <created>1776652293089</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1776652293089</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Programming Exercise 12 Grade tracker">
+      <option name="closed" value="true" />
+      <created>1776652305683</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1776652305683</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Programming Exercise 12 Grade tracker">
+      <option name="closed" value="true" />
+      <created>1776652456736</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1776652456736</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="from functools import reduce&#10;&#10;def main():&#10;    expenses = []&#10;&#10;    while True:&#10;        expense_type = input(&quot;Enter the type of expense (or 'done' to finish): &quot;)&#10;        if expense_type.lower() == &quot;done&quot;:&#10;            break&#10;        try:&#10;            amount = float(input(f&quot;Enter the amount for {expense_type}: &quot;))&#10;            expenses.append((expense_type, amount))&#10;        except ValueError:&#10;            print(&quot;Invalid amount. Please enter a number.&quot;)&#10;&#10;    if not expenses:&#10;        print(&quot;No expenses entered.&quot;)&#10;        return&#10;&#10;    # Total using reduce&#10;    total = reduce(lambda acc, x: acc + x[1], expenses, 0)&#10;&#10;    # Highest using reduce&#10;    highest = reduce(lambda x, y: x if x[1] &gt; y[1] else y, expenses)&#10;&#10;    # Lowest using reduce&#10;    lowest = reduce(lambda x, y: x if x[1] &lt; y[1] else y, expenses)&#10;&#10;    print(&quot;\n--- Expense Report ---&quot;)&#10;    print(f&quot;Total Expenses: ${total:.2f}&quot;)&#10;    print(f&quot;Highest Expense: {highest[0]} (${highest[1]:.2f})&quot;)&#10;    print(f&quot;Lowest Expense: {lowest[0]} (${lowest[1]:.2f})&quot;)&#10;&#10;if __name__ == &quot;__main__&quot;:&#10;    main()" />
+    <MESSAGE value="Python program that collects monthly expenses and uses reduce to calculate total, highest and lowest expense." />
+    <MESSAGE value="Added program to input monthly expenses and display total, highest, and lowest expenses using reduce." />
+    <MESSAGE value="Exercise8" />
+    <MESSAGE value="CSV Exercise" />
+    <MESSAGE value="CSV Grades file" />
+    <MESSAGE value="CSV Word DOc" />
+    <MESSAGE value="Programming Exercise 9 Bank Account" />
+    <MESSAGE value="Programming Exercise 11 Poker Hand" />
+    <MESSAGE value="Programming Exercise 12 Grade tracker" />
+    <option name="LAST_COMMIT_MESSAGE" value="Programming Exercise 12 Grade tracker" />
+  </component>
+</project>
